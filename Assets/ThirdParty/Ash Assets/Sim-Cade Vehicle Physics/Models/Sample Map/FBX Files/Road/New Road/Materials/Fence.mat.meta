@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 89334084e87a4e742816993615215e10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/FBX Files/Road/New
+    Road/Materials/Fence.mat
+  uploadId: 788898

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63f4e401665ec9c49bcf5fc5a8a71e08
+timeCreated: 1483788851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/EnvBranch_2.mat
+  uploadId: 706309

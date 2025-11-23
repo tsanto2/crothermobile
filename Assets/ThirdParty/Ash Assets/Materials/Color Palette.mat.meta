@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d098486631855954c9cdaff158abc19c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Color Palette.mat
+  uploadId: 706309

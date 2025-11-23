@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bed79841728623e4699952b3befe5d93
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Resources/SuspensionPoints.prefab
+  uploadId: 706309

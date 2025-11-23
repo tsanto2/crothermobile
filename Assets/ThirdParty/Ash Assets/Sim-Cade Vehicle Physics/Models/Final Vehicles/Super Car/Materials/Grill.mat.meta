@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4552e961b083cd7488bedea388528d56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Final Vehicles/Super
+    Car/Materials/Grill.mat
+  uploadId: 788898

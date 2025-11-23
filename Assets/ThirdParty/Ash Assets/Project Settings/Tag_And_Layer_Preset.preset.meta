@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19176ff31b52ca642a5095bce1074226
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Project Settings/Tag_And_Layer_Preset.preset
+  uploadId: 706309

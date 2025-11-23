@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fe32fa4b07b72346919035fd06b773a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Road/Materials/road-t-.-c.mat
+  uploadId: 788898

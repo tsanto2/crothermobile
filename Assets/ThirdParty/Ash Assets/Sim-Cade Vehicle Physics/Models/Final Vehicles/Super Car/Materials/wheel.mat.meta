@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 602a35f76887f774d986339345d5b069
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Final Vehicles/Super
+    Car/Materials/wheel.mat
+  uploadId: 788898

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9d4b00277c752d41921fa219aefcd5a
+timeCreated: 1477835987
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/Rocks_2.mat
+  uploadId: 706309

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4cf423a1010df3b42afa2ab6a4284646
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Common Scripts/GravityCustom.cs
+  uploadId: 706309

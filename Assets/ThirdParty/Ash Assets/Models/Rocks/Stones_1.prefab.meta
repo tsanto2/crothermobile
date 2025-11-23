@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0bce85e1c405be4a928c5cb5baf26ae
+timeCreated: 1526936618
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Models/Rocks/Stones_1.prefab
+  uploadId: 706309

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b28a1de79fa9b24ca52dd9a8b69f419
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Ash Vehicle AI/AI Scripts/AiCarContrtoller.cs
+  uploadId: 706309

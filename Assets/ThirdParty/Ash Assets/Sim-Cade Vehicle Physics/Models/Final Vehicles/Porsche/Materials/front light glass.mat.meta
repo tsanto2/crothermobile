@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 592db586b5a5ea640864d9e9158ba5c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Final Vehicles/Porsche/Materials/front
+    light glass.mat
+  uploadId: 788898

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b3c5d2f74220dc840bbf6ddfb15e3043
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Welcome-AshDev/AshDev_WelcomeScreen.cs
+  uploadId: 706309

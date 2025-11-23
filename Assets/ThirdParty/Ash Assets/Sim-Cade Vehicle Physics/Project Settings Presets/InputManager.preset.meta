@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ff92382833a6164eb512af47c4d3147
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Project Settings Presets/InputManager.preset
+  uploadId: 788898

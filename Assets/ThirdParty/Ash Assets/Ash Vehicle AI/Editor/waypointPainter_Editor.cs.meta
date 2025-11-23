@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 017ef8c63b65d8946ac8a90bafefc80f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Ash Vehicle AI/Editor/waypointPainter_Editor.cs
+  uploadId: 706309

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed26685531e4eea47a238c0b45c0e081
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Car.mat
+  uploadId: 706309

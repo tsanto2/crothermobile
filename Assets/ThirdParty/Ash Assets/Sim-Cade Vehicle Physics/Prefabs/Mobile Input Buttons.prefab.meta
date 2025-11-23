@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9889818cb0b9d384cbda300852615f57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Prefabs/Mobile Input Buttons.prefab
+  uploadId: 788898

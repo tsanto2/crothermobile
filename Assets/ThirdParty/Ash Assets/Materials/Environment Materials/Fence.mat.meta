@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f922b6bbeb060724bad0022798d552bd
+timeCreated: 1522770095
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/Fence.mat
+  uploadId: 706309

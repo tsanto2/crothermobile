@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a85445240082d02468388d40be0f051e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Project Settings/Physics_Preset.preset
+  uploadId: 706309

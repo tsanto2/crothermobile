@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb5089881f8ed714a89a5aaafc940373
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Layers/layer_Grass&Rock(15.000,15.000),0.000,0.100.terrainlayer
+  uploadId: 788898

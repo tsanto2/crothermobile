@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 637065d933361794a835956d48b31f0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Road/Materials/ter_concrete_002.mat
+  uploadId: 788898

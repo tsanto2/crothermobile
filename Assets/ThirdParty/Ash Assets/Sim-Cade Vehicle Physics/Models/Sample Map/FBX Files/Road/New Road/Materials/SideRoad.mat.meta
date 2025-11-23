@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f47e7c17b634794282895c8ecac16fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/FBX Files/Road/New
+    Road/Materials/SideRoad.mat
+  uploadId: 788898

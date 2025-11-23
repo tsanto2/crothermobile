@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69996e7d6b798174fb8e86bf71944e5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/FBX Files/Road/race
+    track 7/Materials/Road+Cracked+AI+01_COLOR.mat
+  uploadId: 788898

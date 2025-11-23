@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af3816ee804421147aa3d559bed73abe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Prefabs/WheelSkid.prefab
+  uploadId: 788898

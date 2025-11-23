@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8abe583028d35c49b31bb3ae2a49ea9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Layers/Terrain
+    Layers/Paking.terrainlayer
+  uploadId: 788898

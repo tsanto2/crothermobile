@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 681839495a4b5b14b8d94a343869a8e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Scenes/City Map Lighting.lighting
+  uploadId: 788898

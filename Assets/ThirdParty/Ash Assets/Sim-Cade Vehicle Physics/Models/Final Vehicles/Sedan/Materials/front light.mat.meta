@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4b1d2637392e904289f742a0cdf5aef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Final Vehicles/Sedan/Materials/front
+    light.mat
+  uploadId: 788898

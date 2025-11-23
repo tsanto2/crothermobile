@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5336727d7be32404c9ac396789142e1c
+timeCreated: 1571826532
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/SkyBox/Skyboxes/Material/sky-7.mat
+  uploadId: 788898

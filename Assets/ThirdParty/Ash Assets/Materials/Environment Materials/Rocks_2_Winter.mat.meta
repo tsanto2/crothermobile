@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64fda13f4a812f64296bdbb9e6b27f35
+timeCreated: 1518787584
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/Rocks_2_Winter.mat
+  uploadId: 706309

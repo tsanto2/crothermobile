@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20c3241dab0dd0c459ad68d382e7e939
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Ash Vehicle AI/AI Scripts/Sensors.cs
+  uploadId: 706309

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d347c5313fc396042868fb5155a45964
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Final Vehicles/Sedan/Materials/car-lights.mat
+  uploadId: 788898

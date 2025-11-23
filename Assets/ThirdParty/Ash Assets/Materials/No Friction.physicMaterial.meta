@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecced3aacfe9ee449930c039f383b7e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/No Friction.physicMaterial
+  uploadId: 706309

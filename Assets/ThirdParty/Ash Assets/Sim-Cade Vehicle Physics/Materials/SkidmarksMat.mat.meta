@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 468ce7e4a717e15428fc7589d5a003d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Materials/SkidmarksMat.mat
+  uploadId: 788898

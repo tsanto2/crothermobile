@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 99f4203c69a943b2a395a6fbfea76fa8
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Materials/ParticleCollisionSpark.mat
+  uploadId: 788898

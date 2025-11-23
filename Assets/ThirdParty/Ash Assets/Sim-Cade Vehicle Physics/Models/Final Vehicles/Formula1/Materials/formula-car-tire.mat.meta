@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67c87e2f799d0424c8ae975f2f68c7c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Final Vehicles/Formula1/Materials/formula-car-tire.mat
+  uploadId: 788898

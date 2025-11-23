@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b34807611a5d104f884f8b618046774
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Prefabs/SkidmarksController.prefab
+  uploadId: 788898

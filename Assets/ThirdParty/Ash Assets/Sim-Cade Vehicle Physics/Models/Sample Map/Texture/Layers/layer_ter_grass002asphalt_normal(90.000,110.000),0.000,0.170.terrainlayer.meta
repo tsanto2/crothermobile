@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c133b2ba1ced14499b04d3ba23e3f34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Layers/layer_ter_grass002asphalt_normal(90.000,110.000),0.000,0.170.terrainlayer
+  uploadId: 788898

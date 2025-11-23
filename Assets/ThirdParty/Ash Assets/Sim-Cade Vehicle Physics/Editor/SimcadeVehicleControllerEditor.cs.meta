@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f9b0787c02cb89f47a98f3a05fa465c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Editor/SimcadeVehicleControllerEditor.cs
+  uploadId: 788898

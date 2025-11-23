@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e083b9c6bca91b14bab710d786f41c8f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Prefabs/Car Presets/Ash_Pickup
+    Prefab.prefab
+  uploadId: 788898

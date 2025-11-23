@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf3f9980c43241248935d8a59a323fa6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Welcome-AshDev/AshDeb_WelcomeScreen.uxml
+  uploadId: 706309
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: dontshowagain
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}

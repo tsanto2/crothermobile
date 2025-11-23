@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ba8e3d270b07ed418ff90c9868ff725
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Prefeb/Probs/prop_wall_A.prefab
+  uploadId: 788898

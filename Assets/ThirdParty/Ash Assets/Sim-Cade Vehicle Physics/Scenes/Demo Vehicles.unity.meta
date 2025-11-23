@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4dd9714a61f0f242b62331736ffbdde
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Scenes/Demo Vehicles.unity
+  uploadId: 788898

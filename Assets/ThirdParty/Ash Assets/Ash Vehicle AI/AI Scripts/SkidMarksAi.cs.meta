@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b786ce79dff5ea84eb32aea24a7da3b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Ash Vehicle AI/AI Scripts/SkidMarksAi.cs
+  uploadId: 706309

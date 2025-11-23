@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70852dc981465ea48bb527b9e33a87fd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Ash Vehicle AI/AI Scripts/WaypointCircuit.cs
+  uploadId: 706309

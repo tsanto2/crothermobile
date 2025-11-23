@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b51e16b980537eb4ab7715b5d7e1ded7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Layers/layer_ter_concrete_002asphalt_normal(15.000,15.000),0.000,0.300.terrainlayer
+  uploadId: 788898

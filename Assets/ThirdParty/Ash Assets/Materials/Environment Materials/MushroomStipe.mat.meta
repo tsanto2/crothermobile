@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f4edf1b13efa2c47992dab78923e30b
+timeCreated: 1506714042
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/MushroomStipe.mat
+  uploadId: 706309

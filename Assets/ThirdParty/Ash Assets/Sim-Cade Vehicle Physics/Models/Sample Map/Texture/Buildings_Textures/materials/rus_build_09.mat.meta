@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 643da363d2f851a40959e91cff586ff9
+timeCreated: 1519739779
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/Texture/Buildings_Textures/materials/rus_build_09.mat
+  uploadId: 788898

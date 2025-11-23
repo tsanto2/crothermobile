@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf049dcb37d31024c92ef3ddb4ec3191
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Models/Cars/Style Truck/tail_light.mat
+  uploadId: 706309

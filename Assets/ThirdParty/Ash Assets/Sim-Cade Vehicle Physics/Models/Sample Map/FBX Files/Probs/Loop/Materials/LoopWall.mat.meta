@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cced35d75b7efca4f88c550e6f65a949
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Models/Sample Map/FBX Files/Probs/Loop/Materials/LoopWall.mat
+  uploadId: 788898

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca6a5d2649318404fa4bd2adabfd561a
+timeCreated: 1519552414
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Models/Rocks/Stone_Winter.prefab
+  uploadId: 706309

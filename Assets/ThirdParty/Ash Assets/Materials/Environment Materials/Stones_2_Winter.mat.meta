@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 077784dbbb38ba446936bdb25471ca54
+timeCreated: 1518813203
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Materials/Environment Materials/Stones_2_Winter.mat
+  uploadId: 706309

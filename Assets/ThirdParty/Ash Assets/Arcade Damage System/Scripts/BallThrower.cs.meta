@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dabdfb54d3a5ba74cb4ae588927e8c78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311903
+  packageName: Arcade Damage System
+  packageVersion: 1.0
+  assetPath: Assets/Ash Assets/Arcade Damage System/Scripts/BallThrower.cs
+  uploadId: 735387

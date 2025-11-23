@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c64cf92b630ac0478ca9e29fbdb01d0
+timeCreated: 1519552404
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200028
+  packageName: Ash Vehicle AI
+  packageVersion: 3.0
+  assetPath: Assets/Ash Assets/Models/Rocks/Rocks_2_Winter.prefab
+  uploadId: 706309

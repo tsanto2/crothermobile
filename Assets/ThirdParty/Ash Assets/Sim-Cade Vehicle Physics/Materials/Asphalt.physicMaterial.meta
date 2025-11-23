@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62653b3527c814547baf70a1f81bf501
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 243624
+  packageName: Sim-Cade Vehicle Physics
+  packageVersion: 1.5
+  assetPath: Assets/Ash Assets/Sim-Cade Vehicle Physics/Materials/Asphalt.physicMaterial
+  uploadId: 788898
